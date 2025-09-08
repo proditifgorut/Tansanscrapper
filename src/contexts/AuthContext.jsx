@@ -33,9 +33,9 @@ export const AuthProvider = ({ children }) => {
       id: 1,
       name: 'John Doe',
       email: email,
-      plan: 'Premium',
+      plan: 'Pro', // FIX: Changed 'Premium' to 'Pro' to match pricingPlans
       quotaUsed: 1250,
-      quotaLimit: 5000
+      quotaLimit: 10000 // FIX: Adjusted quota to match 'Pro' plan
     };
     setUser(mockUser);
     localStorage.setItem('tansanUser', JSON.stringify(mockUser));
@@ -48,7 +48,7 @@ export const AuthProvider = ({ children }) => {
       id: 1,
       name: name,
       email: email,
-      plan: 'Free',
+      plan: 'Starter', // FIX: Changed 'Free' to 'Starter' to match pricingPlans
       quotaUsed: 0,
       quotaLimit: 100
     };

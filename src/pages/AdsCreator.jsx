@@ -34,7 +34,7 @@ const AdsCreator = () => {
     },
     creative: {
       format: 'image',
-      mediaUrl: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/1080x1080/10B981/FFFFFF?text=AeroStride+Shoes',
+      mediaUrl: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/1080x1080/10B981/FFFFFF?text=AeroStride+Shoes',
       primaryText: "Tingkatkan performa larimu! 🏃‍♂️ Sepatu Lari 'AeroStride' kini hadir dengan teknologi bantalan terbaru. Ringan, responsif, dan siap membawamu lebih jauh. Dapatkan diskon 30% + gratis ongkir khusus minggu ini!",
       headline: 'Diskon 30% Sepatu Lari AeroStride',
       description: 'Stok terbatas. Beli sekarang!',

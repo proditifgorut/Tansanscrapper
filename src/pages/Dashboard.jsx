@@ -42,10 +42,10 @@ const Dashboard = () => {
   ];
 
   const trendingProducts = [
-    { id: 1, name: 'TWS Gaming Pro X1', price: 'Rp 249.000', trend: '+35%', image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/150x150/3B82F6/FFFFFF?text=TWS', marketplace: 'Tokopedia' },
-    { id: 2, name: 'Sneakers Casual Pria', price: 'Rp 320.000', trend: '+28%', image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/150x150/10B981/FFFFFF?text=Sepatu', marketplace: 'Shopee' },
-    { id: 3, name: 'Serum Wajah Vitamin C', price: 'Rp 89.000', trend: '+21%', image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/150x150/F97316/FFFFFF?text=Serum', marketplace: 'Lazada' },
-    { id: 4, name: 'Smartwatch Generasi 5', price: 'Rp 1.250.000', trend: '+15%', image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/150x150/EF4444/FFFFFF?text=Watch', marketplace: 'Blibli' },
+    { id: 1, name: 'TWS Gaming Pro X1', price: 'Rp 249.000', trend: '+35%', image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/150x150/3B82F6/FFFFFF?text=TWS', marketplace: 'Tokopedia' },
+    { id: 2, name: 'Sneakers Casual Pria', price: 'Rp 320.000', trend: '+28%', image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/150x150/10B981/FFFFFF?text=Sepatu', marketplace: 'Shopee' },
+    { id: 3, name: 'Serum Wajah Vitamin C', price: 'Rp 89.000', trend: '+21%', image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/150x150/F97316/FFFFFF?text=Serum', marketplace: 'Lazada' },
+    { id: 4, name: 'Smartwatch Generasi 5', price: 'Rp 1.250.000', trend: '+15%', image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/150x150/EF4444/FFFFFF?text=Watch', marketplace: 'Blibli' },
   ];
 
   return (
